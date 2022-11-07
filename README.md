@@ -1,1 +1,1 @@
-# Getting Started (again)
+# Navigating the App 
